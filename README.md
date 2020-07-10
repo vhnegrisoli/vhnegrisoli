@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-victorhugonegrisoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugonegrisoli//)](https://www.linkedin.com/in/victorhugonegrisoli/) [![Gmail Badge](https://img.shields.io/badge/-victorhugonegrisoli.ccs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:victorhugonegrisoli.ccs@gmail.com)
 ---
 
-## Olá, mundo 👋,  
+## Olá, mundo 👋
 
 Meu nome é Victor Hugo Negrisoli, sou um Desenvolvedor Back-End e Analista de Dados, apaixonado por desenvolvimento Back-End, Business Intelligence e Ciência de Dados!
 
