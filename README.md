@@ -8,7 +8,7 @@
 
 * Meu nome é Victor Hugo Negrisoli, sou um Desenvolvedor Back-End e Analista de Dados, e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Business Intelligence e Ciência de Dados!
 
-Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
+* Meu objetivo é me tornar um excelente desenvolvedor back-end e cientista de dados, e, para isto, estou sempre estudando e buscando me especializar nas novas tecnologias através de especializações, cursos online e novos projetos e repositórios!
 
 ## Principais habilidades :fireworks:
 
