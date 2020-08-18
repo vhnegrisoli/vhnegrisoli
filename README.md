@@ -4,6 +4,21 @@
 [![Linkedin Badge](https://img.shields.io/badge/-victorhugonegrisoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugonegrisoli//)](https://www.linkedin.com/in/victorhugonegrisoli/) [![Gmail Badge](https://img.shields.io/badge/-victorhugonegrisoli.ccs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:victorhugonegrisoli.ccs@gmail.com)
 ---
 
+<span><img height="35px" src="https://cdn.svgporn.com/logos/java.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/nodejs.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/express.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/nestjs.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/react.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
+<span><img height="35px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
+
 ## Olá, mundo 👋
 
 * Meu nome é Victor Hugo Negrisoli, sou um Desenvolvedor Back-End e Analista de Dados, e sou apaixonado por desenvolvimento Back-End, API REST, microsserviços, análise de dados, Business Intelligence e Ciência de Dados!
@@ -50,8 +65,7 @@ fui efetivado com Técnico de Suporte de Infraestrutura de TI para criação de 
 
 ## Principais Frameworks :hammer: 
 
-* Spring Framework
-* Spring Boot
+* Spring Framework (Boot, Data JPA, Cloud e Security)
 * Express.js
 * Nest.js
 
@@ -65,7 +79,8 @@ fui efetivado com Técnico de Suporte de Infraestrutura de TI para criação de 
 * QueryDSL
 * Mongoose
 * Spring Data JPA
-* Spring Cloud Open Feign
+* Spring Security
+* Spring Cloud
 * Axios
 
 - 💬 Caso queira tirar dúvidas ou apenas conversar sobre tecnologia, pode me contatar! 
