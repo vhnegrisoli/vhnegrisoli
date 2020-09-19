@@ -13,11 +13,13 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/nestjs.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/react.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/git.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/git.svg"></span>
+<span><img height="20px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"></span>
+<span><img height="25px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
 
 ## Olá, mundo 👋
 
