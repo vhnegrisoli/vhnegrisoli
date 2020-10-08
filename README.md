@@ -1,5 +1,5 @@
 # Victor Hugo Negrisoli
-### Desenvolvedor Back-End Pleno & Analista de Dados
+### Desenvolvedor Back-End & Analista de Dados
 
 [![Linkedin Badge](https://img.shields.io/badge/-victorhugonegrisoli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorhugonegrisoli//)](https://www.linkedin.com/in/victorhugonegrisoli/) [![Gmail Badge](https://img.shields.io/badge/-victorhugonegrisoli.ccs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:victorhugonegrisoli.ccs@gmail.com)
 ---
@@ -47,7 +47,7 @@
 
 * +3 anos de experiência no mercado de tecnologia
 
-* Atualmente sou Desenvolvedor Full-Stack Pleno na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
+* Atualmente sou Desenvolvedor Full-Stack Sênior I na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
 
 * Trabalhei como Estagiário de Infraestrutura de TI na empresa Veltec - A Trimble Company, e, posteriormente,
 fui efetivado com Técnico de Suporte de Infraestrutura de TI para criação de Business Intelligence utilizando banco de dados PostgreSQL e Microsoft Power BI
