@@ -8,11 +8,11 @@
 <span><img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/nodejs.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/spring.svg"></span>
-<span><img height="25px" src="https://cdn.svgporn.com/logos/express.svg"></span>
+<span><img height="20px" src="https://cdn.svgporn.com/logos/express.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/python.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/nestjs.svg"></span>
 <span><img height="35px" src="https://cdn.svgporn.com/logos/postgresql.svg"></span>
-<span><img height="35px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
+<span><img height="30px" src="https://cdn.svgporn.com/logos/mongodb.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/redis.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
