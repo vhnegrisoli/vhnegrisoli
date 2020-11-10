@@ -17,7 +17,7 @@
 <span><img height="25px" src="https://cdn.svgporn.com/logos/react.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/docker.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/git.svg"></span>
-<span><img height="20px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
+<span><img height="10px" src="https://cdn.svgporn.com/logos/oracle.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/rabbitmq.svg"></span>
 <span><img height="25px" src="https://cdn.svgporn.com/logos/oauth.svg"></span>
 
