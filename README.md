@@ -47,7 +47,9 @@
 
 * +3 anos de experiência no mercado de tecnologia
 
-* Atualmente sou Desenvolvedor Full-Stack Sênior I na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
+* Atualmente sou Desenvolvedor Back-End Sênior na empresa Ilegra, atuando com Java, Spring Framework e seus projetos, API REST, microsserviços, e ferramentas para DRMS (Decision Rules Management Systems), ou Sistemas de Gerenciamento de Regras de Negócios, como o FICO Blazer Advisor e o OpenL Tablets para tabelas de decisões integradas ao Java.
+
+* Atuei como Desenvolvedor Back-End Sênior na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
 
 * Trabalhei como Estagiário de Infraestrutura de TI na empresa Veltec - A Trimble Company, e, posteriormente,
 fui efetivado com Técnico de Suporte de Infraestrutura de TI para criação de Business Intelligence utilizando banco de dados PostgreSQL e Microsoft Power BI
