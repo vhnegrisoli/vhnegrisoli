@@ -45,7 +45,7 @@
 
 ## Experiências :computer:
 
-* +3 anos de experiência no mercado de tecnologia
+* +4 anos de experiência no mercado de tecnologia
 
 * Atualmente sou Desenvolvedor Back-End Sênior na empresa Ilegra, atuando com Java, Spring Framework e seus projetos, API REST, microsserviços, e ferramentas para DRMS (Decision Rules Management Systems), ou Sistemas de Gerenciamento de Regras de Negócios, como o FICO Blazer Advisor e o OpenL Tablets para tabelas de decisões integradas ao Java.
 
