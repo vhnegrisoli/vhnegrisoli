@@ -39,7 +39,7 @@
 
 ## Acadêmico 👨‍💻
 
-* **Especialização em  Ciência de Dados & Big Data** | **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)** de 2020 a 2021. Em progresso.
+* **Especialização em  Ciência de Dados & Big Data** | **Pontifícia Universidade Católica de Minas Gerais (PUC-MG)** de 2020 a 2022. Concluído.
 
 * **Bacharelado em Ciência da Computação** | **Centro Universitário Filadélfia (UniFil)** de 2016 - 2019. Concluído.
 
