@@ -45,9 +45,11 @@
 
 ## Experiências :computer:
 
-* +4 anos de experiência no mercado de tecnologia
+* +6 anos e meio de experiência no mercado de tecnologia
 
-* Atualmente sou Desenvolvedor Back-End Sênior na empresa Ilegra, atuando com Java, Spring Framework e seus projetos, API REST, microsserviços, e ferramentas para DRMS (Decision Rules Management Systems), ou Sistemas de Gerenciamento de Regras de Negócios, como o FICO Blazer Advisor e o OpenL Tablets para tabelas de decisões integradas ao Java.
+* Atualmente, atuo como Desenvolvedor Back-End Especialista na empresa Cogna Educação, atuando com tecnologias como Java 11 e 17, microsserviços, API REST, Spring Boot, Micronaut, Grails e Groovy, Kubernetes, AWS, Docker, Docker-compose, PostgreSQL, MongoDB, JWT, Apache Kafka e RabbitMQ e aplicações de Design Patterns como Strategy, Factory Method, Singleton, Adapter, Chain of Responsibility, Facade e princípios de SOLID.
+
+* Atuei como Desenvolvedor Back-End Sênior na empresa Ilegra, atuando com Java, Spring Framework e seus projetos, API REST, microsserviços, e ferramentas para DRMS (Decision Rules Management Systems), ou Sistemas de Gerenciamento de Regras de Negócios, como o FICO Blazer Advisor e o OpenL Tablets para tabelas de decisões integradas ao Java.
 
 * Atuei como Desenvolvedor Back-End Sênior na empresa X-Brain Desenvolvimento de Sistemas (1 ano e 7 meses) utilizando tecnologias como Java 8, 11 e 13, Spring Boot 2, OAuth2.0, API REST, microsserviços, OracleDB 12c, Python 3, Node.js, Nest.js, Jenkins, Docker, MongoDB, Redis e React.js.
 
